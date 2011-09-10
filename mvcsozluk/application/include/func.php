@@ -1,9 +1,11 @@
 <?php
 
 /**
- * sözlükerciyes
+ * sözlükerciyes (c) 2008
  * 
  * func.php - Genel fonksiyonlar
+ * 
+ * @author Mehmet Yıldırım <myildirim2007@gmail.com>
  */
 
 
